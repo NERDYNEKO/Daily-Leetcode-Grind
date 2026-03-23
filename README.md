@@ -1,2 +1,27 @@
-# Daily-Leetcode-grind
-Daily LeetCode solutions with detailed explanations and complexity analysis. Committed to consistent problem-solving practice.
+<div align="center">
+
+# Daily LeetCode Solutions 🧑‍💻
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#FFA116)](https://leetcode.com/[your-leetcode-username]/)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/[your-github-username]/[your-repo-name]?style=for-the-badge)](https://github.com/[your-github-username]/[your-repo-name]/commits)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-XXX+-brightgreen?style=for-the-badge)](https://github.com/[your-github-username]/[your-repo-name])
+
+Committed to solving **2 LeetCode problems daily** — consistent practice in data structures, algorithms, and problem-solving for coding interviews.
+
+</div>
+
+## About
+
+This repository documents my daily LeetCode journey:
+- **Goal**: Solve at least 2 problems every day
+- **Focus**: Clean, optimized code + clear explanations
+- **Languages**: [Python  C++ ] 
+- **Structure**: Organized by difficulty (Easy / Medium / Hard) or by date / problem number
+
+
+## Progress Highlights
+
+- **Current streak**: 3 days
+- **Total problems solved**: [6]
+- **Easy / Medium / Hard**: 4 / 1 / 0
+
