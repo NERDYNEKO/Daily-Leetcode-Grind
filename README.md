@@ -36,4 +36,8 @@ This repository documents my daily LeetCode journey:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
