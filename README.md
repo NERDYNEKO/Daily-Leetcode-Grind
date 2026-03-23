@@ -25,3 +25,15 @@ This repository documents my daily LeetCode journey:
 - **Total problems solved**: [6]
 - **Easy / Medium / Hard**: 4 / 1 / 0
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/1480-running-sum-of-1d-array/) | Easy |
+<!---LeetCode Topics End-->
