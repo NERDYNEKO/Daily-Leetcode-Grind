@@ -23,7 +23,7 @@ This repository documents my daily LeetCode journey:
 
 - **Current streak**: 3 days
 - **Total problems solved**: [6]
-- **Easy / Medium / Hard**: 4 / 1 / 0
+- **Easy / Medium / Hard**: 5 / 1 / 0
 
 
 <!---LeetCode Topics Start-->
