@@ -4,8 +4,13 @@ class Solution:
             return 0
         if n==1:
             return 1
-        else:
-            return self.fib(n-1)+self.fib(n-2)
+        prev=0
+        current=1
+        for i in range(2,n+1):
+            next_value=prev+current
+            prev=current
+            current=next_value
+        return current
                     
         
                     
