@@ -43,13 +43,19 @@ This repository documents my daily LeetCode journey:
 | [0007-reverse-integer](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0013-roman-to-integer/) | Easy |
+| [0202-happy-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0202-happy-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0013-roman-to-integer/) | Easy |
+| [0202-happy-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0013-roman-to-integer/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
