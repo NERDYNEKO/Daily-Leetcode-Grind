@@ -44,6 +44,7 @@ This repository documents my daily LeetCode journey:
 | [0009-palindrome-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +59,16 @@ This repository documents my daily LeetCode journey:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0202-happy-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/NERDYNEKO/Daily-Leetcode-grind/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
