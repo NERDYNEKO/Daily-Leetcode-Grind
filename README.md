@@ -1,0 +1,64 @@
+<h1 align="center">🚀 LeetCode Journey</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-DSA-blue" />
+  <img src="https://img.shields.io/badge/Language-Python-orange" />
+  <img src="https://img.shields.io/badge/Consistency-Daily-green" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/NabonitaRoy04?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NERDYNEKO&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NERDYNEKO&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NERDYNEKO&theme=react-dark" />
+</p>
+
+---
+
+
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="snake.svg" />
+</p>
+
+---
+
+## ⚡ Daily Goal
+
+✔ Solve at least 2 problems  
+✔ Revise old questions  
+✔ Learn new patterns  
+
+---
+
+## 🔥 Quote
+
+> "Consistency beats intensity."
+
+---
+
+## ⭐ Support
+
+If you like this repo, give it a ⭐
