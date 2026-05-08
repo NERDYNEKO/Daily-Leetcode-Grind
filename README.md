@@ -80,6 +80,7 @@ If you like this repo, give it a ⭐
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ If you like this repo, give it a ⭐
 | [0088-merge-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -111,6 +113,7 @@ If you like this repo, give it a ⭐
 | [0088-merge-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
