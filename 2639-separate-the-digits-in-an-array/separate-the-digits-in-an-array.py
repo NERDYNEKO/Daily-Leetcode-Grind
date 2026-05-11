@@ -4,8 +4,7 @@ class Solution:
         for i in nums:
             s=str(i)
             for x in s:
-                y=int(x)
-                ans.append(y)
+                ans.append(int(x))
                 
                 
         return ans
