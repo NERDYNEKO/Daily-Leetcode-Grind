@@ -123,6 +123,7 @@ If you like this repo, give it a ⭐
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
@@ -147,4 +148,8 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
