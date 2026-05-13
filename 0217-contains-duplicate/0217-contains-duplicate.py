@@ -1,6 +1,5 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        nums.sort()
         count={}
         
         for i in nums:
