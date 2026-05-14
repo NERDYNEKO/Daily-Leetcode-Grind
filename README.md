@@ -75,6 +75,7 @@ If you like this repo, give it a ⭐
 | [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -102,6 +104,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
@@ -111,6 +114,7 @@ If you like this repo, give it a ⭐
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
@@ -160,4 +164,8 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0796-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
