@@ -9,8 +9,9 @@ class Solution:
         for n in t:
             if n not in prev:
                 return n
-            if n in prev:
+            else:
                 prev[n]-=1
+                
             if prev[n]<0:
                 return n
 
