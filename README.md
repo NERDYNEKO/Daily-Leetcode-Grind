@@ -86,6 +86,7 @@ If you like this repo, give it a ⭐
 | [0724-find-pivot-index](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
