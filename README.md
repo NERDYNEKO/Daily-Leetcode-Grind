@@ -74,6 +74,7 @@ If you like this repo, give it a ⭐
 | [0001-two-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
@@ -146,6 +147,7 @@ If you like this repo, give it a ⭐
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Prefix Sum
