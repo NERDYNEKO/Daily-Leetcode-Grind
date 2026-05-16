@@ -149,6 +149,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0066-plus-one](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
+| [2235-add-two-integers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Prefix Sum
 |  |
