@@ -97,6 +97,7 @@ If you like this repo, give it a ⭐
 | [0001-two-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0290-word-pattern) |
@@ -149,6 +150,7 @@ If you like this repo, give it a ⭐
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0344-reverse-string) |
