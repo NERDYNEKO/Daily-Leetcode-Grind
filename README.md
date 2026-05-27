@@ -141,6 +141,7 @@ If you like this repo, give it a ⭐
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -154,6 +155,7 @@ If you like this repo, give it a ⭐
 | [0242-valid-anagram](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0796-rotate-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
