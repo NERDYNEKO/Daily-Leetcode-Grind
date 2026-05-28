@@ -83,6 +83,7 @@ If you like this repo, give it a ⭐
 | [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
@@ -102,6 +103,7 @@ If you like this repo, give it a ⭐
 | [0205-isomorphic-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -112,6 +114,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -123,6 +126,7 @@ If you like this repo, give it a ⭐
 | [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
@@ -168,6 +172,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0066-plus-one](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Prefix Sum
@@ -202,5 +207,6 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
