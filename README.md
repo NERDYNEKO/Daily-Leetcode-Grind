@@ -108,6 +108,7 @@ If you like this repo, give it a ⭐
 | [0290-word-pattern](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
@@ -141,6 +142,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
@@ -171,6 +173,7 @@ If you like this repo, give it a ⭐
 | [0344-reverse-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0796-rotate-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -217,4 +220,8 @@ If you like this repo, give it a ⭐
 | [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0704-binary-search) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
