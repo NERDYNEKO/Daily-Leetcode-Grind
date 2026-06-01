@@ -98,6 +98,7 @@ If you like this repo, give it a ⭐
 | [0918-maximum-sum-circular-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -148,6 +149,7 @@ If you like this repo, give it a ⭐
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
 |  |
 | ------- |
@@ -212,6 +214,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
 | ------- |
