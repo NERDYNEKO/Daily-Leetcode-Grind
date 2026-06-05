@@ -197,6 +197,7 @@ If you like this repo, give it a ⭐
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
