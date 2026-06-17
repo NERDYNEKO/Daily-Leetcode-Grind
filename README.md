@@ -84,6 +84,7 @@ If you like this repo, give it a ⭐
 | [0075-sort-colors](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
@@ -266,6 +267,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0053-maximum-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
