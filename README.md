@@ -219,6 +219,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0007-reverse-integer](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
@@ -307,6 +308,7 @@ If you like this repo, give it a ⭐
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0273-integer-to-english-words) |
 ## Matrix
