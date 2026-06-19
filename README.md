@@ -208,6 +208,7 @@ If you like this repo, give it a ⭐
 | [0383-ransom-note](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -221,6 +222,7 @@ If you like this repo, give it a ⭐
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0273-integer-to-english-words) |
+| [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
 | [1323-maximum-69-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -248,6 +250,7 @@ If you like this repo, give it a ⭐
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
 ## String Matching
 |  |
