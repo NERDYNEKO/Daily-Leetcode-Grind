@@ -105,6 +105,7 @@ If you like this repo, give it a ⭐
 | [0918-maximum-sum-circular-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1732-find-the-highest-altitude](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1732-find-the-highest-altitude) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
@@ -228,6 +229,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1732-find-the-highest-altitude) |
 ## Trie
 |  |
 | ------- |
