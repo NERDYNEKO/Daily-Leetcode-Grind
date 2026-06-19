@@ -139,6 +139,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
@@ -220,6 +221,7 @@ If you like this repo, give it a ⭐
 | [0009-palindrome-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
@@ -303,6 +305,7 @@ If you like this repo, give it a ⭐
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
