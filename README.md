@@ -225,6 +225,7 @@ If you like this repo, give it a ⭐
 | [0069-sqrtx](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
