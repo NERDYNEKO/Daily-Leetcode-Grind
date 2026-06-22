@@ -133,6 +133,7 @@ If you like this repo, give it a ⭐
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
@@ -171,6 +172,7 @@ If you like this repo, give it a ⭐
 | [0383-ransom-note](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
+| [1189-maximum-number-of-balloons](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -214,6 +216,7 @@ If you like this repo, give it a ⭐
 | [0796-rotate-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1189-maximum-number-of-balloons) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
