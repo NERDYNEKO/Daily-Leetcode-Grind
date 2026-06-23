@@ -77,6 +77,7 @@ If you like this repo, give it a ⭐
 | [0027-remove-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0066-plus-one) |
@@ -184,6 +185,7 @@ If you like this repo, give it a ⭐
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0125-valid-palindrome) |
@@ -262,6 +264,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
 |  |
@@ -297,6 +300,7 @@ If you like this repo, give it a ⭐
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -328,4 +332,8 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0073-set-matrix-zeroes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
