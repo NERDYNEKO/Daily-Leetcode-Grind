@@ -221,6 +221,7 @@ If you like this repo, give it a ⭐
 | [0387-first-unique-character-in-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0796-rotate-string) |
