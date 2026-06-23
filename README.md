@@ -108,6 +108,7 @@ If you like this repo, give it a ⭐
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1732-find-the-highest-altitude) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
@@ -138,6 +139,7 @@ If you like this repo, give it a ⭐
 | [1189-maximum-number-of-balloons](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
@@ -179,6 +181,7 @@ If you like this repo, give it a ⭐
 | [1189-maximum-number-of-balloons](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,6 +228,7 @@ If you like this repo, give it a ⭐
 | [1108-defanging-an-ip-address](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
