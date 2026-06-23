@@ -14,7 +14,7 @@ class Solution:
             else:
                 count2[j]=1
         for word in words1:
-            if count1.get(word, 0) == 1 and count2.get(word, 0) == 1:
+            if word in count2 and count1[word] == 1 and count2[word] == 1:
                 total_count += 1
         return total_count 
     
