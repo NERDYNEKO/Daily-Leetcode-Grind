@@ -341,4 +341,8 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
