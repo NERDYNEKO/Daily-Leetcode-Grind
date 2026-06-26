@@ -1,0 +1,4 @@
+# Write your MySQL query statement below
+SELECT p.product_name , s.year ,s.price 
+From Sales s join product p
+Where s.product_id=p.product_id;
