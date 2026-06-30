@@ -137,6 +137,7 @@ If you like this repo, give it a ⭐
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -228,6 +229,7 @@ If you like this repo, give it a ⭐
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -319,6 +321,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0220-contains-duplicate-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bucket Sort
 |  |
 | ------- |
