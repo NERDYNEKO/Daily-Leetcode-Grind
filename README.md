@@ -252,6 +252,7 @@ If you like this repo, give it a ⭐
 | [2235-add-two-integers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
 | ------- |
