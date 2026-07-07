@@ -100,6 +100,7 @@ If you like this repo, give it a ⭐
 | [0442-find-all-duplicates-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0724-find-pivot-index) |
@@ -167,6 +168,7 @@ If you like this repo, give it a ⭐
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -247,6 +249,7 @@ If you like this repo, give it a ⭐
 | [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2235-add-two-integers) |
