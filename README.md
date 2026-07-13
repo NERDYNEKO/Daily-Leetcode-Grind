@@ -250,6 +250,7 @@ If you like this repo, give it a ⭐
 | [0273-integer-to-english-words](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2235-add-two-integers) |
@@ -316,6 +317,7 @@ If you like this repo, give it a ⭐
 | [0118-pascals-triangle](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1025-divisor-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -360,4 +362,12 @@ If you like this repo, give it a ⭐
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1757-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
