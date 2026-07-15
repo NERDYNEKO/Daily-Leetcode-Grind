@@ -256,6 +256,7 @@ If you like this repo, give it a ⭐
 | [2235-add-two-integers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
@@ -370,4 +371,8 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1025-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
