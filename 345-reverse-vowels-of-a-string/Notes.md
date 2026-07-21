@@ -1,1 +1,1 @@
-<h2>reverse-vowels-of-a-string Notes</h2><hr>[ Time taken: 11m 23s ]
+<h2>reverse-vowels-of-a-string Notes</h2><hr>[ Time taken: 2hrs 40m 55s ]
