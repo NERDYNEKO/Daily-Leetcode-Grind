@@ -119,6 +119,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
@@ -208,6 +209,7 @@ If you like this repo, give it a ⭐
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
@@ -328,6 +330,7 @@ If you like this repo, give it a ⭐
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0220-contains-duplicate-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
