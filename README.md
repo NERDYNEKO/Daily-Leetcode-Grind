@@ -262,6 +262,7 @@ If you like this repo, give it a ⭐
 | [3536-maximum-product-of-two-digits](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3871-count-commas-in-range-ii](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3871-count-commas-in-range-ii) |
 ## Prefix Sum
 |  |
 | ------- |
