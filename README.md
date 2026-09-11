@@ -135,6 +135,7 @@ If you like this repo, give it a ⭐
 | [0383-ransom-note](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
@@ -229,6 +230,7 @@ If you like this repo, give it a ⭐
 | [0387-first-unique-character-in-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0771-jewels-and-stones) |
@@ -336,6 +338,7 @@ If you like this repo, give it a ⭐
 | [0003-longest-substring-without-repeating-characters](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0220-contains-duplicate-iii) |
+| [0424-longest-repeating-character-replacement](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bucket Sort
 |  |
