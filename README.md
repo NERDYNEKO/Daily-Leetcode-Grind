@@ -115,6 +115,7 @@ If you like this repo, give it a ⭐
 | [2553-separate-the-digits-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2733-neither-minimum-nor-maximum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ If you like this repo, give it a ⭐
 | [1684-count-the-number-of-consistent-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -349,6 +351,7 @@ If you like this repo, give it a ⭐
 | [0050-powx-n](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0273-integer-to-english-words) |
+| [3483-unique-3-digit-even-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -381,4 +384,8 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
