@@ -152,6 +152,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0067-add-binary](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0268-missing-number) |
@@ -308,6 +309,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0053-maximum-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search
