@@ -251,6 +251,7 @@ If you like this repo, give it a ⭐
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0050-powx-n) |
@@ -365,6 +366,7 @@ If you like this repo, give it a ⭐
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0273-integer-to-english-words) |
@@ -409,4 +411,8 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
