@@ -265,6 +265,7 @@ If you like this repo, give it a ⭐
 | [0371-sum-of-two-integers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1688-count-of-matches-in-tournament) |
@@ -404,4 +405,8 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
