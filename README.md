@@ -80,6 +80,7 @@ If you like this repo, give it a ⭐
 | [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0075-sort-colors) |
@@ -286,6 +287,7 @@ If you like this repo, give it a ⭐
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1323-maximum-69-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -334,6 +336,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0918-maximum-sum-circular-subarray) |
