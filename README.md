@@ -73,6 +73,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0001-two-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0027-remove-element) |
@@ -199,6 +200,7 @@ If you like this repo, give it a ⭐
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0031-next-permutation) |
@@ -290,6 +292,7 @@ If you like this repo, give it a ⭐
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1323-maximum-69-number) |
