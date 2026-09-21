@@ -253,6 +253,7 @@ If you like this repo, give it a ⭐
 | [1684-count-the-number-of-consistent-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -313,6 +314,7 @@ If you like this repo, give it a ⭐
 | [0412-fizz-buzz](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1688-count-of-matches-in-tournament) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2553-separate-the-digits-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
