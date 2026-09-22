@@ -379,6 +379,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0002-add-two-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0273-integer-to-english-words) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3483-unique-3-digit-even-numbers) |
@@ -426,4 +427,5 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
