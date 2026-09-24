@@ -119,6 +119,7 @@ If you like this repo, give it a ⭐
 | [2733-neither-minimum-nor-maximum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2733-neither-minimum-nor-maximum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@ If you like this repo, give it a ⭐
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3871-count-commas-in-range-ii](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3871-count-commas-in-range-ii) |
