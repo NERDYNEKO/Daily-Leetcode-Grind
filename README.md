@@ -78,6 +78,7 @@ If you like this repo, give it a ⭐
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
@@ -339,6 +340,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0069-sqrtx) |
