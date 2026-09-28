@@ -105,6 +105,7 @@ If you like this repo, give it a ⭐
 | [0350-intersection-of-two-arrays-ii](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
@@ -147,6 +148,7 @@ If you like this repo, give it a ⭐
 | [0424-longest-repeating-character-replacement](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1189-maximum-number-of-balloons) |
@@ -316,6 +318,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -406,6 +409,7 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0496-next-greater-element-i) |
 ## Database
 |  |
 | ------- |
