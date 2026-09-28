@@ -257,6 +257,7 @@ If you like this repo, give it a ⭐
 | [1108-defanging-an-ip-address](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -315,6 +316,7 @@ If you like this repo, give it a ⭐
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -445,4 +447,8 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
