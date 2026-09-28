@@ -318,6 +318,7 @@ If you like this repo, give it a ⭐
 | ------- |
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -459,4 +460,8 @@ If you like this repo, give it a ⭐
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
