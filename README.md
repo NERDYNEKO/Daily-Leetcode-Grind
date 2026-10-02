@@ -235,6 +235,7 @@ If you like this repo, give it a ⭐
 | [0012-integer-to-roman](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0067-add-binary) |
@@ -366,6 +367,7 @@ If you like this repo, give it a ⭐
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0055-jump-game) |
@@ -458,10 +460,15 @@ If you like this repo, give it a ⭐
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/NERDYNEKO/Daily-Leetcode-Grind/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
